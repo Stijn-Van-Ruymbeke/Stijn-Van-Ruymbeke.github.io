@@ -22,7 +22,7 @@ repository               : "https://github.com/Stijn-Van-Ruymbeke/Stijn-Van-Ruym
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Stijn.jpg"
   name             : "Stijn Van Ruymbeke"
   bio              : "I am an interdisciplinary PhD candidate at Ghent University working at the instersection of data analytics, AI, and (insolvency) law. I am affiliated with the Faculty of Law and Criminology as well as the Faculty of Economics and Business Administration."
   location         : "Ghent, Belgium"
