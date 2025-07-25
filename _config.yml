@@ -29,7 +29,6 @@ author:
   employer         : "Ghent University"
   uri              : "https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stijn_van_ruymbeke.htm"
   email            : "stijn.vanruymbeke@ugent.be" 
-  linkedin         : "stijnvanruymbeke"
 
   # Academic websites
   academia         : # URL
@@ -37,6 +36,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-5601-5497"
   biblio           : "https://biblio.ugent.be/person/A3CE1DF6-BAF1-11E9-8790-7EC55607D3EF"
   
+  linkedin         : "stijnvanruymbeke"
 
 
 # Publication Category - The following the list of publication categories and their headings
