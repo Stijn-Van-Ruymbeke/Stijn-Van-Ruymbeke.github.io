@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Ghent, Belgium"
 ---
 
-Teaching Assistant
+Teaching Assistant.
