@@ -2,7 +2,7 @@
 title: "Leveraging Artificial Intelligence as a Decision Support System in Belgian Commercial Courts"
 collection: publications
 category: conferences
-# permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/ICAIL
 # excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-07-30
 venue: '20th International Conference on Artificial Intelligence and Law'
