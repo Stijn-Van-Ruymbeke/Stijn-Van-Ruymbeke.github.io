@@ -1,5 +1,5 @@
 ---
-title: "ICAIL"
+title: " Doctoral Consortium"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/ICAIL_dc
