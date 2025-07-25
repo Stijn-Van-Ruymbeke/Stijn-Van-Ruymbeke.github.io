@@ -1,7 +1,7 @@
 ---
 title: "Rechtspraak in bijberoep: draagvlak voor de inzet van advocaten als plaatsvervangende rechters"
 collection: publications
-category: Journal Articles
+category: manuscripts
 permalink: /publication/Plaatsvervanging1
 excerpt: 'In this work we analyse the concept of substitute judges'
 date: 2025-06-25
