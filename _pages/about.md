@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Stijn"
+title: "Hello there, I'm Stijn Van Ruymbeke 👋"
 author_profile: true
 redirect_from: 
   - /about/
