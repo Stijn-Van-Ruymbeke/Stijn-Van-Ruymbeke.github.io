@@ -7,7 +7,6 @@ permalink: /publication/ICAIL
 date: 2025-07-30
 venue: 'Proceedings of the 20th International Conference on Artificial Intelligence and Law'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Stijn Van Ruymbeke, Aruna Audenaert, Henri Arno, Tibe Habils, Joke Baeck, Klaas Mulier, and Thomas Demeester. 2025. Leveraging Artificial Intelligence as a Decision Support System in Belgian Commercial Courts. In Twentieth International Conference on Artificial Intelligence and Law (ICAIL 2025), June 16–20, 2025, Chicago, IL, USA. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/nnnnnnn.nnnnnnn'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
