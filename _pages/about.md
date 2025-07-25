@@ -16,7 +16,7 @@ I am an interdisciplinary PhD candidate at Ghent University working at the inter
 ## Academic Timeline
 
 - **09/2025 – present**: PhD Candidate, Ghent University  
-- **10/2025**: Awarded *Best Graduating Student in Business Engineering: Data Analytics*  
+- **10/2025**: Awarded prize *Best Graduating Student in Business Engineering: Data Analytics*  
 - **2022 – 2024**: M.Sc. in Business Engineering: Data Analytics — *Graduated summa cum laude*  
 - **2021 – 2022**: Participant, faculty-wide honours program *FEB Student Excellence Program*  
 - **2020 – 2022**: Participant, university-wide honours program *Quetelet Lectures*  

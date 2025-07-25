@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Rechtspraak in bijberoep: draagvlak voor de inzet van advocaten als plaatsvervangende rechters"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Plaatsvervanging1
+excerpt: 'In this work we analyse the concept of substitute judges'
+date: 2025-06-25
+venue: 'Nieuw Juridisch Weekblad'
+paperurl: 'https://biblio.ugent.be/publication/01JZHXSN6JCKNCCJRPX6KK1E0N'
+citation: 'Baeck, J., Van Ruymbeke, S., & De Roeck, C. (2025). Rechtspraak in bijberoep : draagvlak voor de inzet van advocaten als plaatsvervangende rechters. NIEUW JURIDISCH WEEKBLAD, (524), 446–456.
+'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
