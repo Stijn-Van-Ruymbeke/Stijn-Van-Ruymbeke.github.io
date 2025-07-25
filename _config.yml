@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "Stijn.jpg"
   name             : "Stijn Van Ruymbeke"
-  bio              : "I am an interdisciplinary PhD candidate at Ghent University working at the instersection of data analytics, AI, and (insolvency) law. I am affiliated with the Faculty of Law and Criminology as well as the Faculty of Economics and Business Administration."
+  #bio              : "I am an interdisciplinary PhD candidate at Ghent University working at the instersection of data analytics, AI, and (insolvency) law. I am affiliated with the Faculty of Law and Criminology as well as the Faculty of Economics and Business Administration."
   location         : "Ghent, Belgium"
   employer         : "Ghent University"
   uri              : "https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stijn_van_ruymbeke.htm"
