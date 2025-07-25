@@ -18,8 +18,8 @@ main:
     url: /talks/
         
  
-  - title: "Blog posts"
-    url: /posts/
+ # - title: "Blog posts"
+ #   url: /posts/
     
   # - title: "CV"
   #   url: /cv-json/
