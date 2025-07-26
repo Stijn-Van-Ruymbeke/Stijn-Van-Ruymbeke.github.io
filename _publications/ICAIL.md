@@ -3,7 +3,7 @@ title: "Leveraging Artificial Intelligence as a Decision Support System in Belgi
 collection: publications
 category: conferences
 permalink: /publication/ICAIL
-# excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper shows preliminary results on a research project to use AI for the evaluation of financially distressed companies'
 date: 2025-07-30
 venue: 'Proceedings of the 20th International Conference on Artificial Intelligence and Law'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'

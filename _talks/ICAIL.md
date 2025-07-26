@@ -9,4 +9,4 @@ location: "Chicago, IL, USA"
 ---
 
 
-Presented my research on the use of AI for the detection and evaluation of financially distressed companies at the conference's main track.
+Presented early results of my research on the use of AI for the detection and evaluation of financially distressed companies at the main track of ICAIL in Chicago.

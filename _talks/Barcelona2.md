@@ -8,4 +8,4 @@ date: 2025-05-22
 location: "Barcelona, Spain"
 ---
 
-Presented my research on the use of AI for the detection and evaluation of financially distressed companies.
+Presented early results of my research on the use of AI for the detection and evaluation of financially distressed companies at the Academic Colloquium of INSOL International in Barcelona.
