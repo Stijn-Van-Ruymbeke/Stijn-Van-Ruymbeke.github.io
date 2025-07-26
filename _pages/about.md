@@ -21,4 +21,5 @@ I am an interdisciplinary PhD candidate at Ghent University working at the inter
 - **2022 – 2024**: M.Sc. in Business Engineering: Data Analytics — *Graduated summa cum laude*  
 - **2021 – 2022**: Faculty-wide honours program *FEB Student Excellence Program*  
 - **2020 – 2022**: University-wide honours program *Quetelet Lectures*  
+  📄 [Letter of reference (PDF)](/assets/files/SVR_LetterOfReference_English.pdf)
 - **2019 – 2022**: B.Sc. in Business Engineering — *Graduated summa cum laude*
