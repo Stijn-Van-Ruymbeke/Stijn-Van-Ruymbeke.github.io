@@ -2,7 +2,7 @@
 title: "Developing an AI Model for the Detection of Financially Distressed Companies by Belgian Commercial Courts"
 collection: publications
 category: manuscripts
-permalink: /publication/AI_model_EIRJ.md
+permalink: /publication/AI_model_EIRJ
 excerpt: 'In this work we outline a research project on the use of AI to detect and evaluate financially distressed companies by commercial courts.'
 date: 2025-07-01
 venue: 'European Insolvency and Restructuring Journal'
