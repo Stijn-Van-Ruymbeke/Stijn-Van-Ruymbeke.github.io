@@ -1,7 +1,7 @@
 ---
 title: "Advocaat én rechter? Over het draagvlak voor de inzet van advocaten als plaatsvervangende rechters"
 collection: publications
-category: book chapters
+category: books
 permalink: /publication/Plaatsvervanging_LA
 excerpt: 'In this work we examined how Dutch-speaking Belgian magistrates and lawyers view the use of substitute judges — lawyers temporarily acting as judges — based on a large-scale survey.'
 date: 2025-10-01
