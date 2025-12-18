@@ -7,6 +7,6 @@ excerpt: 'In this work we examined how Dutch-speaking Belgian magistrates and la
 date: 2025-06-25
 venue: 'Nieuw Juridisch Weekblad'
 paperurl: 'https://biblio.ugent.be/publication/01JZHXSN6JCKNCCJRPX6KK1E0N'
-citation: 'Baeck, J., Van Ruymbeke, S., & De Roeck, C. (2025). Rechtspraak in bijberoep : draagvlak voor de inzet van advocaten als plaatsvervangende rechters. NIEUW JURIDISCH WEEKBLAD, (524), 446–456.
+citation: 'Baeck, J., Van Ruymbeke, S., & De Roeck, C. (2025). Rechtspraak in bijberoep : draagvlak voor de inzet van advocaten als plaatsvervangende rechters. Nieuw Juridisch Weekblad, (524), 446–456.
 '
 ---
