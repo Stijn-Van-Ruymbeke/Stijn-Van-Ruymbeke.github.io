@@ -3,10 +3,10 @@ title: "Leveraging Artificial Intelligence as a Decision Support System in Belgi
 collection: publications
 category: conferences
 permalink: /publication/ICAIL
-excerpt: 'This paper shows preliminary results on a research project to use AI for the evaluation of financially distressed companies.'
+excerpt: 'This paper shows preliminary results of a research project to use AI for the evaluation of financially distressed companies. It was presented as a demonstration at the 20th International Conference on Artificial Intelligence and Law.'
 date: 2025-07-30
 venue: 'Proceedings of the 20th International Conference on Artificial Intelligence and Law'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Stijn Van Ruymbeke, Aruna Audenaert, Henri Arno, Tibe Habils, Joke Baeck, Klaas Mulier, and Thomas Demeester. 2025. Leveraging Artificial Intelligence as a Decision Support System in Belgian Commercial Courts. In Twentieth International Conference on Artificial Intelligence and Law (ICAIL 2025), June 16–20, 2025, Chicago, IL, USA. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/nnnnnnn.nnnnnnn'
+paperurl: 'https://dl.acm.org/conference/icail/proceedings'
+citation: 'Van Ruymbeke, S., Audenaert, A., Arno, H., Habils, T., Baeck, J., Mulier, K., & Demeester, T. (2025). Leveraging artificial intelligence as a decision support system in Belgian commercial courts. In Proceedings of the Twentieth International Conference on Artificial Intelligence and Law (ICAIL 2025) (pp. xx–xx). Association for Computing Machinery. https://doi.org/10.1145/3769126.3769232'
 ---
 
