@@ -9,4 +9,4 @@ location: "Ghent, Belgium"
 ---
 
 
-Invited to present at a symposium for lawyers and magistrates on the use of (Gen)AI -.
+Invited to present at a symposium for lawyers and magistrates on the use of (Gen)AI.
