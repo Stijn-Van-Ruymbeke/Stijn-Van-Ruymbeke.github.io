@@ -3,7 +3,7 @@ title: "Leveraging Artificial Intelligence as a Decision Support System in Belgi
 collection: publications
 category: conferences
 permalink: /publication/ICAIL
-excerpt: 'This paper shows preliminary results of a research project to use AI for the evaluation of financially distressed companies. It was presented as a demonstration at the 20th International Conference on Artificial Intelligence and Law.'
+excerpt: 'In Belgium, each commercial court has at least one Chamber for Companies in Difficulties (CCD), tasked with the early detection and investigation of financially distressed companies. While the CCD’s primary objective is to promote recovery by encouraging financially distressed companies to take action, it also has a regulatory function by facilitating the orderly removal of companies that lack the willingness or capacity to recover. To identify companies, CCDs rely on a database of red flags. Based on these red flags, CCDs can decide to open files, investigate companies, and act accordingly. Given the economic stakes and the resource-intensive nature of the current manual process, we are working on a pilot project at the CCD of Antwerp to develop an AI-based judicial decision support system to assist CCD judges in selecting and prioritizing cases.'
 date: 2026-01-13
 venue: 'Proceedings of the 20th International Conference on Artificial Intelligence and Law'
 paperurl: 'https://dl.acm.org/conference/icail/proceedings'
