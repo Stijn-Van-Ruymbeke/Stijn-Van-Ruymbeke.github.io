@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Ghent, Belgium"
 ---
 
-Teaching Assistant.
+Teaching Assistant during the academic years 2024-2025 and 2025-2026.
