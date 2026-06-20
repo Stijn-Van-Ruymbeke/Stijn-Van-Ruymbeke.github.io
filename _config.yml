@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Stijn's homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Stijn Van Ruymbeke"
 description              : &description "personal description"
 url                      : https://stijn-van-ruymbeke.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -41,10 +41,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Book Chapters'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'   
+  books:
+    title: 'Book Chapters' 
   conferences:
     title: 'Conference Papers'
 
