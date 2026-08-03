@@ -23,3 +23,5 @@ I am an interdisciplinary PhD candidate at Ghent University working at the inter
 - **2020 – 2022**: University-wide honours program *Quetelet Lectures*  
   📄 [Letter of reference (PDF)](/files/SVR_LetterOfReference_English.pdf)
 - **2019 – 2022**: B.Sc. in Business Engineering — *Graduated summa cum laude*
+  📄 [B.Sc. diploma](/files/SVR_BSc.pdf)
+
