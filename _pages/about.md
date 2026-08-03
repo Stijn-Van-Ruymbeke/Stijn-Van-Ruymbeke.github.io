@@ -18,11 +18,12 @@ I am an interdisciplinary PhD candidate at Ghent University working at the inter
 - **09/2024 – present**: PhD Candidate, Ghent University  
 - **10/2024**: Awarded prize *Best Graduating Student in Business Engineering: Data Analytics* 
 - **07/2023 - 09/2023**: Research internship at ETH Zurich (Switzerland) 
-- **2022 – 2024**: M.Sc. in Business Engineering: Data Analytics — *Graduated summa cum laude*      📄 [M.Sc. diploma](/files/SVR_MSc.pdf)
+- **2022 – 2024**: M.Sc. in Business Engineering: Data Analytics — *Graduated summa cum laude*      📄 [M.Sc. diploma (PDF)](/files/SVR_MSc.pdf)
 - **2021 – 2022**: Faculty-wide honours program *FEB Student Excellence Program*      
-  📄 [FEB SEP diploma](/files/SVR_FEBSEP.pdf)
+  📄 [FEB SEP diploma (PDF)](/files/SVR_FEBSEP.pdf)
 - **2020 – 2022**: University-wide honours program *Quetelet Lectures*  
   📄 [Letter of reference (PDF)](/files/SVR_LetterOfReference_English.pdf)
+  📄 [Quetelet diploma (PDF)](/files/Quetelet.pdf)
 - **2019 – 2022**: B.Sc. in Business Engineering — *Graduated summa cum laude*           
-  📄 [B.Sc. diploma](/files/SVR_BSc.pdf)
+  📄 [B.Sc. diploma (PDF)](/files/SVR_BSc.pdf)
 
