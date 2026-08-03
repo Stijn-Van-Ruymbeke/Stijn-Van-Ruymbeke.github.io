@@ -3,7 +3,7 @@ title: "FEB Research Day"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/FEB_ResearchDay
-venue: "International Conference on Artificial Intelligence and Law"
+venue: "Annual Faculty of Economics and Business Administration Research Day"
 date: 2026-05-18
 location: "Ghent, Belgium"
 ---
